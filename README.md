@@ -21,7 +21,7 @@ Simple game of dice roller built with the help of **HTML**, **CSS**, and **JavaS
 
 ## How to run 
 
-[CLone this repository to view the result](https://github.com/Amnaakhtar1213/dice-roller.git)
+[CLich here to view the repository](https://github.com/Amnaakhtar1213/dice-roller.git)
 
 ```bash
 git clone https://github.com/Amnaakhtar1213/dice-roller.git
